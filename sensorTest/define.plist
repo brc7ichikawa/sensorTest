@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>domain</key>
+	<string>flex-gw.iobb.net</string>
+	<key>hash_str</key>
+	<string>10FBA6704DC89DB16D00ACB0333825DA71DBCA30863CCFA66D0D0BA486DFA100</string>
+	<key>top_url</key>
+	<string>http://%host/index.php</string>
+	<key>url</key>
+	<string>?action=GeoLoc&amp;func_name=getMyPoint&amp;x=%x:&amp;y=%y:&amp;hash=</string>
+</dict>
+</plist>
