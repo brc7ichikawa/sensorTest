@@ -2,8 +2,8 @@
 //  Define.swift
 //  sensorTest
 //
-//  Created by プレイズム on 2015/08/19.
-//  Copyright (c) 2015年 プレイズム. All rights reserved.
+//  Created by brc7tichikawa on 2015/08/19.
+//  Copyright (c) 2015年 brc7tichikawa. All rights reserved.
 //
 
 import Foundation
