@@ -57,8 +57,8 @@ class MapWebViewController: UIViewController, UIWebViewDelegate {
     
     func getAuthValue() -> String {
         //Authorizationヘッダーの作成
-        let username = "pipi"
-        let password = "ipip150914"
+        let username = "****"
+        let password = "****"
         let loginString = NSString(format: "%@:%@", username, password)
         let loginData: NSData = loginString.dataUsingEncoding(NSUTF8StringEncoding)!
         let base64LoginString = loginData.base64EncodedStringWithOptions(nil)
